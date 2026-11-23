@@ -22,6 +22,8 @@ This is a research project. The code provided here is intended to ensure the rep
 
 The required dependencies are listed in `requirements.txt` and can be installed with `pip install -r requirements.txt`.
 
+The experiments were run using 30 cores. To reproduce them with fewer cores, reduce the number of processes used by the optimizers.
+
 ## Dataset setup
 
 Four datasets were used in this project. N-TIDIGITS and N-MNIST were downloaded through the Python library `tonic`, so no files need to be downloaded manually.
