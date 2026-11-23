@@ -1,0 +1,7 @@
+scale        "--scale "        r      (0.01, 0.2)
+n_mut        "--n_mut "        i      (1, 6)
+p_mut_frame  "--p_mut_frame "  r      (0.2,0.8)
+tournament_k "--tournament_k " i      (2,7)  
+
+[global]
+digits = 2 # Maximum number of decimal places that are significant for numerical (real) parameters.

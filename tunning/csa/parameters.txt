@@ -1,0 +1,7 @@
+scale       "--scale "       r      (0.01, 0.2)
+ap          "--ap "          r      (0.05, 0.3)
+n_mut       "--n_mut "       i      (1, 6)
+max_grace   "--max_grace "   i      (1, 6)
+
+[global]
+digits = 2 # Maximum number of decimal places that are significant for numerical (real) parameters.

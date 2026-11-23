@@ -1,0 +1,14 @@
+.venv
+.vscode
+*/__pycache__/
+data/recordings
+data/NTIDIGITS18
+data/MVSEC
+data/NMNIST
+data/DvsGesture
+data/mvsec
+data/mit-bih
+data/gsc
+data/*.pickle
+otros/
+tunning/datasets
